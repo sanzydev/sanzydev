@@ -26,8 +26,6 @@
 
    - 👀 I’m interested in Whatsapp Bot, Linux, Raspberry Pi
 
-  - 🍃 Currently studying BCA with specialization in Artificial intelligence & Machine Learning at Arka Jain University, Jamshedpur
-
   
   - 💻 Currently Learning **C** and Web technologies for practical skills.
   
