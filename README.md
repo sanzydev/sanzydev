@@ -38,7 +38,7 @@ Core Focus   : Netcode Optimization, Event Streams, High-Throughput Scrapers
 
 <div align="center">
   <a href="https://github.com/sanzydev">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanzydev&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="GitHub Profile Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=sanzydev&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="GitHub Profile Trophies" />
   </a>
 </div>
 
