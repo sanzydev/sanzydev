@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=sanzydev&label=ACCESS_LOG&color=0e75b6&style=flat-square" alt="Visitor Counter" />
     <img src="https://img.shields.io/badge/ENV-PRODUCTION-00b4d8?style=flat-square&labelColor=050811" alt="Env" />
     <img src="https://img.shields.io/badge/REPLICATION-EVENT--DRIVEN-0e3a5a?style=flat-square&labelColor=050811" alt="Architecture" />
-    <img src="https://img.shields.io/badge/LICENSE-MIT-0077b6?style=flat-square&labelColor=050811" alt="License" />
+    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-0077b6?style=flat-square&labelColor=050811" alt="Status" />
   </p>
 </div>
 
@@ -34,11 +34,11 @@ Core Focus   : Netcode Optimization, Event Streams, High-Throughput Scrapers
 
 ---
 
-### Dynamic Achievements
+### Repository & Contribution Index
 
 <div align="center">
   <a href="https://github.com/sanzydev">
-    <img src="https://trophy.ryglcloud.net/?username=sanzydev&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanzydev&theme=tokyonight" width="100%" alt="Profile Summary Matrix" />
   </a>
 </div>
 
@@ -54,7 +54,74 @@ Core Focus   : Netcode Optimization, Event Streams, High-Throughput Scrapers
 
 <br />
 
-<!-- Interactive Collapsible Architecture Drawers -->
 <details>
   <summary><b>[VIEW ARCHITECTURE & SUBSYSTEM WORKFLOW]</b></summary>
   <br />
+
+```
+[Target Client] <---> [Network Bridge / Remotes] <---> [Authoritative Server (Luau)]
+                             |
+                             v
+                 [Next.js Management Console]
+                             |
+                   (REST / Discord Gateway)
+                             v
+               [Headless Task & Scraper Nodes]
+```
+
+- **Replication Model:** Client-prediction dengan authoritative server verification di Luau.
+- **Frontend Layer:** Server-Side Rendering (SSR) dan Server Actions pada Next.js App Router.
+- **Automation Pipeline:** Scraper concurrency tinggi dengan backoff interval dinamis.
+</details>
+
+<details>
+  <summary><b>[VIEW WORKSPACE ENVIRONMENT SPECS]</b></summary>
+  <br />
+
+- **OS:** Linux x86_64 / Arch / Debian Environments
+- **Terminal & Shell:** Bash / Zsh dengan custom alias & task runner
+- **Version Control:** Git workflow berbasis semantic commits dan branch isolation
+- **Code Engine:** Neovim / VSCode terkonfigurasi untuk Luau LSP dan TypeScript Server
+</details>
+
+---
+
+### Live Performance & Telemetry
+
+<div align="center">
+  <table border="0" style="border: none; width: 100%;">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/sanzydev">
+          <img src="https://github-readme-stats.vercel.app/api?username=sanzydev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00b4d8&icon_color=0e75b6&text_color=94a3b8" width="100%" alt="Sanzy GitHub Stats" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sanzydev">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzydev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00b4d8&text_color=94a3b8" width="100%" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/sanzydev">
+          <img src="https://streak-stats.demolab.com?user=sanzydev&theme=tokyonight&hide_border=true&background=00000000&ring=00b4d8&fire=0e75b6&currStreakLabel=00b4d8&dates=94a3b8" width="85%" alt="Streak Metrics" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/sanzydev">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzydev&theme=react-dark&bg_color=00000000&color=00b4d8&line=0e75b6&point=ffffff&hide_border=true" width="100%" alt="Activity Waveform" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <!-- Interactive Animated Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,35:0e75b6,70:0e3a5a,100:050811&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>
