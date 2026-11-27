@@ -1,78 +1,84 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=40&duration=4997&color=0e75b6&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+Sanzy!;Welcome+To+My+GitHub!🚀" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Sanzy;Systems+%26+Game+Logic+Engineer;Exploring+Luau%2C+Next.js%2C+and+Automation" alt="Header Typing" />
 
-<br>
+  <br />
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=sanzydev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="sanzydev views" /> 
-</p>
-
-<br>
-
-<div align="center">
-  <h3>👨‍💻 Tentang Saya</h3>
-  <p>Saya adalah seorang <strong>Developer</strong> & <strong>Game Creator</strong> yang memiliki *passion* besar dalam membangun aplikasi web modern, otomasi, dan mekanik game yang interaktif.</p>
-</div>
-
-<br>
-
-<div align="left">
-  <ul>
-    <li>🚀 <b>Fokus Saat Ini:</b> Mengembangkan mekanik game di Roblox (Luau) & membangun dashboard API/Web App.</li>
-    <li>💻 <b>Tech Stack Utama:</b> Next.js (App Router), React, Tailwind CSS, dan pengembangan Native Android (Kotlin).</li>
-    <li>🤖 <b>Eksplorasi:</b> Aktif membuat otomasi bot menggunakan Discord.js serta sistem <i>web scraping</i>.</li>
-    <li>🌟 <b>Komunitas:</b> Founder dari <strong>MythicCraft Studio</strong>.</li>
-    <li>⚡ <b>Fun Fact:</b> Saat sedang tidak <i>ngoding</i> atau <i>debugging</i> skrip, saya biasanya mendengarkan musik dan menonton anime/series!</li>
-  </ul>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🛠️ Bahasa & Teknologi</h3>
-  <br>
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,discord,kotlin,html,css,git,github,linux,vscode,vercel,firebase" alt="Tech Stack" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=sanzydev&label=HITS&color=0077b6&style=flat-square" alt="Hit Counter" />
+    <img src="https://img.shields.io/badge/status-active_development-00b4d8?style=flat-square" alt="Status" />
   </p>
 </div>
 
-<br>
-<br>
+---
+
+### Overview
+
+Software builder dan game mechanic designer. Menulis logika di Luau untuk lingkungan Roblox, merakit antarmuka berbasis Next.js/React, serta mengeksplorasi automasi skrip backend dan native Android.
+
+Founder dari **MythicCraft Studio**. Fokus utama saat ini berpusat pada optimasi performa mekanik runtime, integrasi API real-time, dan struktur data modular.
+
+```text
+Identity:       SanzyDev
+Discipline:     Full-Stack Development / Game Engineering
+Core Languages: TypeScript, Luau, Kotlin
+Architecture:   Reactive, Modular, Event-driven
+```
+
+---
+
+### Technologies & Tooling
 
 <div align="center">
-  <h3>📊 Statistik GitHub</h3>
-  <br>
-  
-  <p align="center">
-    <a href="https://github.com/sanzydev"> 
-      <img alt="SanzyDev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sanzydev?cardType=github&theme=github-dark&preferLogin=true" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/sanzydev">
-      <img src="https://streak-stats.demolab.com?user=sanzydev&theme=dark&background=000000" alt="GitHub Streak">
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/sanzydev">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzydev&theme=react-dark" alt="Activity Graph">
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/sanzydev">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzydev&theme=radical&layout=compact" alt="Top Languages">
-    </a>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,kotlin,discord,linux,git,github,vscode,vercel,firebase,androidstudio,neovim&theme=dark" alt="Tech Stack Grid" />
+  </a>
 </div>
 
-<br>
+---
 
-<p align="center">
-  <i>Selalu terbuka untuk kolaborasi proyek keren! Jangan ragu untuk melihat-lihat repositori saya di atas.</i> 🚀
-</p>
+### Engineering Activity & Metrics
+
+<div align="center">
+  <table border="0" style="border: none;">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/sanzydev">
+          <img src="https://github-readme-stats.vercel.app/api?username=sanzydev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00b4d8&icon_color=0077b6&text_color=94a3b8" width="100%" alt="Sanzy GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/sanzydev">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzydev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00b4d8&text_color=94a3b8" width="100%" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/sanzydev">
+          <img src="https://streak-stats.demolab.com?user=sanzydev&theme=tokyonight&hide_border=true&background=00000000&ring=00b4d8&fire=0077b6&currStreakLabel=00b4d8" width="85%" alt="Streak Metrics" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/sanzydev">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzydev&theme=react-dark&bg_color=00000000&color=00b4d8&line=0077b6&point=caf0f8&hide_border=true" width="100%" alt="Contribution Waveform" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+  <a href="https://github.com/sanzydev">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0077b6?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:contact@sanzydev.local">
+    <img src="https://img.shields.io/badge/Inquiry-Direct-00b4d8?style=flat-square&logo=minutemailer&logoColor=white" alt="Contact" />
+  </a>
+</div>
